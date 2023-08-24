@@ -1,5 +1,0 @@
-{{#user}}
-Name: Aditya Awasthi
-Skills: Vite, NextJS, ReactJS, ThreeJS, Figma, TailWind CSS, Bootstrap, Javascript,Typescript, MongoDB CRUD Operation, MySQL, ExpressJS, NodeJS, API Routing, JQuery, HTML, CSS
-Email: aditya.awasthi@gmail.com 
-{{/user}}
